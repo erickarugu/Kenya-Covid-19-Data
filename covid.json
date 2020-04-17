@@ -1,0 +1,76 @@
+{
+  "counties": [
+    {
+      "county": "Uasin Gishu",
+      "lat": 0.5117561,
+      "long": 35.1991708,
+      "today": 0,
+      "total": 3,
+      "deaths": 0,
+      "critical": 0
+    },
+    {
+      "county": "Kisii",
+      "lat": -0.6803741,
+      "long": 34.7600382,
+      "today": 0,
+      "total": 2,
+      "deaths": 0,
+      "critical": 0
+    },
+    {
+      "county": "Nyeri",
+      "lat": -0.4399547,
+      "long": 36.9176815,
+      "today": 1,
+      "total": 13,
+      "deaths": 0,
+      "critical": 0
+    },
+    {
+      "county": "Nairobi",
+      "lat": -1.3032051,
+      "long": 36.7073077,
+      "today": 5,
+      "total": 100,
+      "deaths": 10,
+      "critical": 10
+    },
+    {
+      "county": "Mombasa",
+      "lat": -4.0351857,
+      "long": 39.596222,
+      "today": 2,
+      "total": 50,
+      "deaths": 10,
+      "critical": 10
+    },
+    {
+      "county": "Kilifi",
+      "lat": -3.5372587,
+      "long": 39.7565467,
+      "today": 3,
+      "total": 34,
+      "deaths": 10,
+      "critical": 12
+    },
+    {
+      "county": "Kiambu",
+      "lat": -1.1726914,
+      "long": 36.8233758,
+      "today": 0,
+      "total": 12,
+      "deaths": 0,
+      "critical": 2
+    },
+    {
+      "county": "Kwale",
+      "lat": -4.1786484,
+      "long": 39.4487285,
+      "today": 1,
+      "total": 10,
+      "deaths": 0,
+      "critical": 1
+    }
+  ]
+}
